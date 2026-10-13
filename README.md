@@ -53,13 +53,6 @@
 
 ---
 
-### 📈 3D Activity Graph
-
-<p align="center">
-  <img src="https://github.com/shihadahmed/shihadahmed/blob/output/metrics.classic.svg" width="100%" />
-</p>
-
-
 ### 📈 Activity Graph
 
 <p align="center">
