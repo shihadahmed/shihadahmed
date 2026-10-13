@@ -65,7 +65,7 @@ Experienced in **MongoDB, Express.js, React, Node.js** with a focus on clean arc
 ### 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shihadahmed&theme=github-compact&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shihadahmed&theme=react-dark&hide_border=true&area=true&bg_color=1e1e1e&color=61dafb&line=61dafb&point=61dafb&area_color=61dafb" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -87,7 +87,7 @@ Experienced in **MongoDB, Express.js, React, Node.js** with a focus on clean arc
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shihadahmed&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img src="https://profile-counter.glitch.me/shihadahmed/count.svg" alt="Profile views"/>
   <br/><br/>
   <sub>Built with ❤️ using <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>, <a href="https://github.com/ashutosh00710/github-readme-activity-graph">activity-graph</a>, <a href="https://skillicons.dev">skillicons</a></sub>
 </p>
