@@ -50,8 +50,8 @@ Experienced in **HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB** wi
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shihadahmed&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihadahmed&layout=compact&theme=default&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shihadahmed&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihadahmed&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" alt="Top Languages"/>
 </div>
 
 ---
@@ -59,7 +59,7 @@ Experienced in **HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB** wi
 ### 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shihadahmed&theme=default&hide_border=true" width="100%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=shihadahmed&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&currStreakNum=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" width="100%" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -67,7 +67,7 @@ Experienced in **HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB** wi
 ### 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shihadahmed&theme=react-dark&hide_border=true&area=true&bg_color=1e1e1e&color=61dafb&line=61dafb&point=61dafb&area_color=61dafb" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shihadahmed&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=58a6ff" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
