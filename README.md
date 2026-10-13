@@ -58,3 +58,10 @@
 <p align="center">
   <img src="https://github.com/shihadahmed/shihadahmed/blob/output/metrics.classic.svg" width="100%" />
 </p>
+
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shihadahmed&theme=react-dark&hide_border=true" width="100%" />
+</p>
