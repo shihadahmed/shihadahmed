@@ -19,11 +19,11 @@
 ### 👨‍💻 About Me
 
 Full-Stack MERN Developer passionate about building scalable web applications and robust backend systems.  
-Experienced in **MongoDB, Express.js, React, Node.js** with a focus on clean architecture and performance.
+Experienced in **HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB** with **TailwindCSS**, **DaisyUI/HeroUI** for UI, and **Better Auth** for authentication.
 
 - 🔭 Currently building scalable SaaS products with the MERN stack
-- 💡 Passionate about backend architecture, real-time systems, and developer tooling
-- 🎯 Focused on TypeScript, clean code practices, and test-driven development
+- 💡 Passionate about backend architecture, real-time systems, and clean UI design
+- 🎯 Focused on modern React patterns, type-safe APIs, and developer experience
 - 📫 Reach me: **your.email@example.com** | [LinkedIn](https://linkedin.com/in/your-linkedin-username)
 
 ---
@@ -33,13 +33,15 @@ Experienced in **MongoDB, Express.js, React, Node.js** with a focus on clean arc
 <div align="center">
 
 #### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux" height="45" alt="Frontend Stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" height="45" alt="Frontend Stack"/>
 
 #### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis" height="45" alt="Backend Stack"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="45" alt="Backend Stack"/>
 
-#### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,docker,githubactions,vercel,vscode,postman" height="45" alt="Tools Stack"/>
+#### UI Libraries & Auth
+<img src="https://img.shields.io/badge/DaisyUI-5B21B6?style=for-the-badge&logo=daisyui&logoColor=white" height="30" alt="DaisyUI"/>
+<img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=heroui&logoColor=white" height="30" alt="HeroUI"/>
+<img src="https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge&logo=auth0&logoColor=white" height="30" alt="Better Auth"/>
 
 </div>
 
