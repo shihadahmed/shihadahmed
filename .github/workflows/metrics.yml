@@ -22,3 +22,4 @@ jobs:
           config_timezone: Asia/Dhaka
           plugin_isocalendar: yes
           plugin_languages: yes
+          config_padding: 0
