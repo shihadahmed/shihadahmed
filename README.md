@@ -50,3 +50,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shihadahmed&theme=radical&hide_border=true" width="100%" />
 </p>
+
+---
+
+### 📈 3D Activity Graph
+
+<p align="center">
+  <img src="github-metrics.svg" width="100%" />
+</p>
