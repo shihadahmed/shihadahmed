@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin-username)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-shihadahmed-black?style=flat-square&logo=github)](https://github.com/shihadahmed)
 
 </div>
@@ -16,7 +16,7 @@
 - 🔭 I’m currently working as a **Full-Stack MERN Developer** (MongoDB, Express.js, React, Node.js).
 - 💡 Passionate about building robust backend systems and dynamic, scalable web applications.
 - 🎨 Also love exploring creative design and digital projects.
-- 📫 Reach me out: [Your Email / LinkedIn]
+- 📫 Reach me out: your.email@example.com | [LinkedIn](https://linkedin.com/in/your-linkedin-username)
 
 ---
 
@@ -48,7 +48,7 @@
 ### 📊 GitHub Streak & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shihadahmed&theme=radical&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=shihadahmed&theme=radical&hide_border=true" width="100%" />
 </p>
 
 ---
