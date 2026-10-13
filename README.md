@@ -80,6 +80,14 @@ Experienced in **HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB** wi
 
 ---
 
+### 📈 Detailed Metrics
+
+<div align="center">
+  <img src="https://github.com/shihadahmed/shihadahmed/blob/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+</div>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=120&section=footer&animation=fadeIn" width="100%"/>
 </p>
