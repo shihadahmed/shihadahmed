@@ -58,3 +58,6 @@
 <p align="center">
   <img src="github-metrics.svg" width="100%" />
 </p>
+<p align="center">
+  <img src="https://github.com/shihadahmed/shihadahmed/raw/master/github-metrics.svg" width="100%" />
+</p>
