@@ -94,10 +94,22 @@ mindmap
 
 ---
 
-### 📈 Activity Graph
+### 📈 Activity Graph (2D)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shihadahmed&theme=tokyo-night&hide_border=true&area=true&custom_title=📅%20Contribution%20Activity%20Graph&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=bb9af7&area_color=7aa2f7&area=true" width="100%" alt="Activity Graph"/>
+</div>
+
+---
+
+### 🌐 3D Contribution Graph
+
+<div align="center">
+  <a href="https://github.com/shihadahmed">
+    <img src="https://github-readme-3d-contributions.vercel.app/api?username=shihadahmed&theme=tokyo-night&bg_color=1a1b26&hide_border=true" width="100%" alt="3D Contribution Graph"/>
+  </a>
+  <br/>
+  <sub>🖱️ <em>Drag to rotate • Scroll to zoom • Click bars for details</em></sub>
 </div>
 
 ---
