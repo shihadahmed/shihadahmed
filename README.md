@@ -81,11 +81,5 @@ Experienced in **HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB** wi
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shihadahmed&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile views"/>
-  <br/><br/>
-  <sub>Built with ❤️ using <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>, <a href="https://github.com/ryo-ma/github-profile-trophy">streak-stats</a>, <a href="https://skillicons.dev">skillicons</a></sub>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=120&section=footer&animation=fadeIn" width="100%"/>
 </p>
