@@ -64,14 +64,6 @@ Experienced in **HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB** wi
 
 ---
 
-### 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shihadahmed&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=58a6ff" width="100%" alt="Activity Graph"/>
-</div>
-
----
-
 ### 🤝 Let's Connect
 
 <div align="center">
@@ -89,9 +81,9 @@ Experienced in **HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB** wi
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/shihadahmed/count.svg" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=shihadahmed&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile views"/>
   <br/><br/>
-  <sub>Built with ❤️ using <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>, <a href="https://github.com/ashutosh00710/github-readme-activity-graph">activity-graph</a>, <a href="https://skillicons.dev">skillicons</a></sub>
+  <sub>Built with ❤️ using <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>, <a href="https://github.com/ryo-ma/github-profile-trophy">streak-stats</a>, <a href="https://skillicons.dev">skillicons</a></sub>
 </p>
 
 <p align="center">
