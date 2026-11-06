@@ -105,6 +105,14 @@ const shihad = {
 
 ---
 
+### 📊 Detailed Metrics
+
+<div align="center">
+  <img src="https://github.com/shihadahmed/shihadahmed/blob/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+</div>
+
+---
+
 ### 💡 Currently Exploring
 
 <div align="center">
