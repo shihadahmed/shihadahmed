@@ -124,7 +124,11 @@ const shihad = {
 ### 🏆 Trophies & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shihadahmed&theme=dark&margin-w=15&margin-h=15&no-frame=true&no-bg=true&column=4&row=2" alt="Trophies"/>
+  <a href="https://github.com/shihadahmed?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=shihadahmed&theme=dark&margin-w=15&margin-h=15&no-frame=true&no-bg=true&column=4&row=2" alt="GitHub Trophies" onerror="this.style.display='none'"/>
+  </a>
+  <br/>
+  <sub><i>Click to view all achievements on GitHub</i></sub>
 </div>
 
 ---
@@ -185,7 +189,11 @@ const shihad = {
 ### 🏆 Trophies & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shihadahmed&theme=dark&margin-w=15&margin-h=15&no-frame=true&no-bg=true&column=4&row=2" alt="Trophies"/>
+  <a href="https://github.com/shihadahmed?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=shihadahmed&theme=dark&margin-w=15&margin-h=15&no-frame=true&no-bg=true&column=4&row=2" alt="GitHub Trophies" onerror="this.style.display='none'"/>
+  </a>
+  <br/>
+  <sub><i>Click to view all achievements on GitHub</i></sub>
 </div>
 
 ---
