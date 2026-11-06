@@ -36,7 +36,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shihadahmed&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihadahmed&layout=compact&theme=dark&hide_border=true&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihadahmed&layout=compact&theme=dark&hide_border=true&langs_count=12&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" alt="Top Languages"/>
 </div>
 
 **Full-Stack MERN Developer** passionate about building scalable web applications and robust backend systems with 4+ years of experience.
@@ -89,7 +89,7 @@ const shihad = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shihadahmed&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff20" width="80%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shihadahmed&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff20&custom_title=Contribution+Activity" width="80%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -113,22 +113,18 @@ const shihad = {
 
 ---
 
-### 📈 Activity & Metrics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shihadahmed&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff20&custom_title=Contribution+Activity" width="80%" alt="Activity Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shihadahmed&theme=dark&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies"/>
-</div>
-
----
-
 ### 📊 Detailed Metrics
 
 <div align="center">
   <img src="https://github.com/shihadahmed/shihadahmed/blob/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+</div>
+
+---
+
+### 🏆 Trophies & Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shihadahmed&theme=dark&margin-w=15&margin-h=15&no-frame=true&no-bg=true&column=4&row=2" alt="Trophies"/>
 </div>
 
 ---
@@ -138,6 +134,29 @@ const shihad = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=rust,go,kubernetes,graphql,terraform,prisma" height="50" alt="Learning Stack"/>
 </div>
+
+---
+
+### 💡 Fun Facts
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">☕ <b>Coffee</b><br>3+ cups/day</td>
+    <td align="center" width="25%">🌙 <b>Night Owl</b><br>Best code at 2AM</td>
+    <td align="center" width="25%">🎮 <b>Gamer</b><br>Strategy games fan</td>
+    <td align="center" width="25%">📚 <b>Reader</b><br>Tech blogs & docs</td>
+  </tr>
+</table>
+
+---
+
+### 🎯 2024 Goals
+
+- [ ] Publish 10+ open source packages
+- [ ] Reach 5k GitHub followers
+- [ ] Contribute to 5 major open source projects
+- [ ] Speak at 2 tech conferences
+- [ ] Write 20 technical blog posts
 
 ---
 
@@ -163,59 +182,6 @@ const shihad = {
 
 ---
 
-### 📈 Detailed Metrics
-
-<div align="center">
-  <img src="https://github.com/shihadahmed/shihadahmed/blob/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
-</div>
-
----
-
-### 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shihadahmed&theme=dark&margin-w=15&margin-h=15&no-frame=true&no-bg=true&column=4" alt="Trophies"/>
-</div>
-
----
-
-### 💡 Fun Facts
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%">☕ <b>Coffee</b><br>3+ cups/day</td>
-    <td align="center" width="25%">🌙 <b>Night Owl</b><br>Best code at 2AM</td>
-    <td align="center" width="25%">🎮 <b>Gamer</b><br>Strategy games fan</td>
-    <td align="center" width="25%">📚 <b>Reader</b><br>Tech blogs & docs</td>
-  </tr>
-</table>
-
----
-
-### 📝 Quick Links
-
-<div align="center">
-  <a href="https://github.com/shihadahmed?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View%20All-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-  </a>
-  <a href="https://github.com/shihadahmed?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-View%20All-FFD700?style=for-the-badge&logo=star&logoColor=white" alt="Stars"/>
-  </a>
-  <a href="https://github.com/shihadahmed?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-View%20All-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
-  </a>
-</div>
-
----
-
-### 📈 Detailed Metrics (SVG)
-
-<div align="center">
-  <img src="https://github.com/shihadahmed/shihadahmed/blob/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
-</div>
-
----
-
 ### 🏆 Trophies & Achievements
 
 <div align="center">
@@ -224,13 +190,11 @@ const shihad = {
 
 ---
 
-### 🎯 2024 Goals
+### 📈 Profile Views
 
-- [ ] Publish 10+ open source packages
-- [ ] Reach 5k GitHub followers
-- [ ] Contribute to 5 major open source projects
-- [ ] Speak at 2 tech conferences
-- [ ] Write 20 technical blog posts
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shihadahmed&color=0284c7&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</div>
 
 ---
 
