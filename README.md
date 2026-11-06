@@ -47,7 +47,14 @@
 ### 🛠️ TECH STACK // NODES
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,react,nextjs,ts,tailwind,docker,nginx,aws,vercel" height="48" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,react,nextjs,nodejs,express,mongodb,tailwind,docker,nginx,aws,vercel" height="48" alt="Tech Stack"/>
+  <br/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/Better%20Auth-000000?style=flat-square&logo=auth0&logoColor=white" alt="Better Auth"/>
+  <img src="https://img.shields.io/badge/Nodemailer-EA4335?style=flat-square&logo=nodemailer&logoColor=white" alt="Nodemailer"/>
+  <img src="https://img.shields.io/badge/HeroUI-000000?style=flat-square&logo=heroui&logoColor=white" alt="HeroUI"/>
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white" alt="DaisyUI"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
 </div>
 
 ---
@@ -56,10 +63,10 @@
 
 | Project | Architectural Domain | Core Stack | Status |
 | :--- | :--- | :--- | :---: |
-| **SaaS Starter Kit** | Enterprise Multi-Tenant Boilerplate | `Next.js` `TypeScript` `Tailwind` `Better Auth` `MongoDB` | 🟢 Live |
-| **Real-time Collab Editor** | Distributed Docs & CRDT Engine | `React` `TipTap` `Yjs` `WebSockets` `Node.js` `Redis` | 🟢 Live |
-| **MERN E-commerce Core** | Decoupled RESTful API & RBAC | `Node.js` `Express` `MongoDB` `Stripe` `Zod` | 🟢 Production |
-| **DevTools CLI** | Production MERN Scaffolding Utility | `TypeScript` `Commander.js` `Inquirer` `Handlebars` | 📦 npm |
+| **SaaS Starter Kit** | Full-Stack SaaS Boilerplate | `Next.js` `JavaScript` `Tailwind` `Better Auth` `MongoDB` | 🟢 Live |
+| **Full-Stack Media Portal** | Media Storage & Cloud Assets | `React` `Node.js` `Express` `MongoDB` `Cloudinary` | 🟢 Live |
+| **MERN E-commerce & RBAC Engine** | REST API, Role-Based Access & Auth | `Node.js` `Express` `MongoDB` `JWT` `Nodemailer` | 🟢 Production |
+| **Modern UI Web Application** | Responsive Design & Interactive Components | `React` `Tailwind CSS` `HeroUI` `DaisyUI` | 🟢 Live |
 
 ---
 
