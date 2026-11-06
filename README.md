@@ -1,54 +1,32 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=280&section=header&text=Shihad%20Ahmed&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20MERN%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=52&descAlign=62&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=260&section=header&text=Shihad%20Ahmed&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Clean%20Architecture%20Enthusiast&descAlignY=58&descAlign=50&descSize=19" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Building+scalable+web+applications;Open+source+enthusiast;Clean+code+advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=0284C7&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Developer;Building+scalable+web+applications;Specialized+in+Node.js%2C+React+%26+Cloud+Native;Clean+code+%26+robust+architecture+advocate" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shihadahmed">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/shihadahmed">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:shihadahmed@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://shihadahmed.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://twitter.com/shihadahmed">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+  <a href="https://linkedin.com/in/shihadahmed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/shihadahmed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:shihad.800@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://shihadahmed.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://twitter.com/shihadahmed"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=0284C7&center=true&vCenter=true&width=500&lines=Turning+coffee+into+code+since+2019;4%2B+years+of+MERN+experience;Open+source+contributor;Clean+architecture+advocate" alt="Typing SVG" />
-</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shihadahmed&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihadahmed&layout=compact&theme=dark&hide_border=true&langs_count=12&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" alt="Top Languages"/>
-</div>
-
-**Full-Stack MERN Developer** passionate about building scalable web applications and robust backend systems with 4+ years of experience.
-
 ```javascript
 const shihad = {
+  name: "Shihad Bin Ahmed",
   role: "Full-Stack MERN Developer",
   location: "Dhaka, Bangladesh",
   experience: "4+ years",
-  focus: ["Scalable SaaS Products", "Real-time Systems", "Clean Architecture"],
-  currentProject: "Building scalable SaaS products with MERN stack",
-  philosophy: "Clean code, scalable architecture, great developer experience"
+  coreFocus: ["Scalable SaaS Products", "Real-time Systems", "Clean Architecture"],
+  currentProject: "Architecting high-performance web applications with MERN stack",
+  philosophy: "Clean code, robust architecture, delightful developer experience"
 };
 ```
 
@@ -59,155 +37,91 @@ const shihad = {
 <div align="center">
 
 #### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite" height="50" alt="Frontend Stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite" height="48" alt="Frontend Stack"/>
 
-#### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose,redis,graphql" height="50" alt="Backend Stack"/>
+#### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,graphql" height="48" alt="Backend Stack"/>
 
-#### ☁️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,nginx,aws,vercel,postman,figma,vscode" height="50" alt="DevOps Stack"/>
+#### ☁️ DevOps, Cloud & Tools
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,nginx,aws,vercel,postman,figma,vscode" height="48" alt="DevOps Stack"/>
 
-#### 🎯 UI Libraries & Auth
-<img src="https://img.shields.io/badge/DaisyUI-5B21B6?style=for-the-badge&logo=daisyui&logoColor=white" height="30" alt="DaisyUI"/>
-<img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=heroui&logoColor=white" height="30" alt="HeroUI"/>
-<img src="https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge&logo=auth0&logoColor=white" height="30" alt="Better Auth"/>
-<img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="30" alt="Shadcn UI"/>
+#### 🎯 UI Components & Auth Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="28" alt="Shadcn UI"/>
+  <img src="https://img.shields.io/badge/DaisyUI-5B21B6?style=for-the-badge&logo=daisyui&logoColor=white" height="28" alt="DaisyUI"/>
+  <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=heroui&logoColor=white" height="28" alt="HeroUI"/>
+  <img src="https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge&logo=auth0&logoColor=white" height="28" alt="Better Auth"/>
+</p>
 
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shihadahmed&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github&custom_title=Shihad's+GitHub+Stats" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihadahmed&layout=compact&theme=dark&hide_border=true&langs_count=12&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&custom_title=Most+Used+Languages" width="48%" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shihadahmed&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&currStreakNum=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&date_format=M%20j%2C%20Y" width="80%" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shihadahmed&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff20&custom_title=Contribution+Activity" width="80%" alt="Activity Graph"/>
 </div>
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **SaaS Starter Kit** | Production-ready boilerplate with auth, billing, multi-tenancy | `Next.js` `TypeScript` `Tailwind` `Better Auth` `Stripe` `MongoDB` | ✅ Live |
-| **Real-time Collab Editor** | Google Docs-like editor with CRDTs, WebSockets, presence | `React` `TipTap` `Yjs` `WebSockets` `Node.js` `Redis` | ✅ Live |
-| **MERN E-commerce API** | Scalable REST API with payments, orders, admin panel | `Node.js` `Express` `MongoDB` `Stripe` `Zod` | ✅ Production |
-| **DevTools CLI** | Scaffolding tool for MERN projects with best practices | `TypeScript` `Commander.js` `Inquirer` `Handlebars` | 📦 npm |
+| Project | Description | Core Stack | Status |
+| :--- | :--- | :--- | :---: |
+| **SaaS Starter Kit** | Production boilerplate with multi-tenancy, auth & billing | `Next.js` `TypeScript` `Tailwind` `Better Auth` `MongoDB` | 🟢 Live |
+| **Real-time Collab Editor** | Collaborative Docs editor with CRDTs, WebSockets & presence | `React` `TipTap` `Yjs` `WebSockets` `Node.js` `Redis` | 🟢 Live |
+| **MERN E-commerce Platform** | Robust microservice/REST API with RBAC & payment gateway | `Node.js` `Express` `MongoDB` `Stripe` `Zod` | 🟢 Production |
+| **DevTools CLI** | Developer scaffolding utility for rapid MERN architectural setup | `TypeScript` `Commander.js` `Inquirer` `Handlebars` | 📦 npm |
 
 ---
 
-### 🔥 Contribution Streak
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shihadahmed&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&currStreakNum=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&date_format=M%20j%2C%20Y" width="80%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shihadahmed&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github&custom_title=Shihad's+GitHub+Stats" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihadahmed&layout=compact&theme=dark&hide_border=true&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&custom_title=Most+Used+Languages" width="48%" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shihadahmed&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&currStreakNum=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&date_format=M%20j%2C%20Y" width="85%" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shihadahmed&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff20&custom_title=Contribution+Activity" width="85%" alt="Activity Graph"/>
 </div>
 
 ---
 
-### 📊 Detailed Metrics
-
-<div align="center">
-  <img src="https://github.com/shihadahmed/shihadahmed/blob/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
-</div>
-
----
-
-### 🏆 Trophies & Achievements
+### 🏆 Achievements
 
 <div align="center">
   <a href="https://github.com/shihadahmed?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=shihadahmed&theme=dark&margin-w=15&margin-h=15&no-frame=true&no-bg=true&column=4&row=2" alt="GitHub Trophies" onerror="this.style.display='none'"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=shihadahmed&theme=dark&margin-w=15&margin-h=15&no-frame=true&no-bg=true&column=4&row=2" alt="GitHub Trophies"/>
   </a>
-  <br/>
-  <sub><i>Click to view all achievements on GitHub</i></sub>
 </div>
 
 ---
 
-### 💡 Currently Exploring
+### 💡 Exploring & Learning
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,kubernetes,graphql,terraform,prisma" height="50" alt="Learning Stack"/>
+  <img src="https://skillicons.dev/icons?i=rust,go,kubernetes,terraform,prisma" height="48" alt="Learning Stack"/>
 </div>
 
 ---
 
-### 💡 Fun Facts
+### 💡 Highlights & Mindset
 
 <table align="center">
   <tr>
-    <td align="center" width="25%">☕ <b>Coffee</b><br>3+ cups/day</td>
-    <td align="center" width="25%">🌙 <b>Night Owl</b><br>Best code at 2AM</td>
-    <td align="center" width="25%">🎮 <b>Gamer</b><br>Strategy games fan</td>
-    <td align="center" width="25%">📚 <b>Reader</b><br>Tech blogs & docs</td>
+    <td align="center" width="25%">☕ <b>Coffee Fuel</b><br>Code fueled by caffeine</td>
+    <td align="center" width="25%">🌙 <b>Night Flow</b><br>Deep focus & best commits at night</td>
+    <td align="center" width="25%">⚡ <b>Performance</b><br>Obsessed with speed & UX</td>
+    <td align="center" width="25%">📚 <b>Continuous Learner</b><br>Constantly exploring internals</td>
   </tr>
 </table>
 
 ---
 
-### 🎯 2024 Goals
-
-- [ ] Publish 10+ open source packages
-- [ ] Reach 5k GitHub followers
-- [ ] Contribute to 5 major open source projects
-- [ ] Speak at 2 tech conferences
-- [ ] Write 20 technical blog posts
-
----
-
-### 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://linkedin.com/in/shihadahmed">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/shihadahmed">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://twitter.com/shihadahmed">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:shihadahmed@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://shihadahmed.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
-
----
-
-### 🏆 Trophies & Achievements
-
-<div align="center">
-  <a href="https://github.com/shihadahmed?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=shihadahmed&theme=dark&margin-w=15&margin-h=15&no-frame=true&no-bg=true&column=4&row=2" alt="GitHub Trophies" onerror="this.style.display='none'"/>
-  </a>
-  <br/>
-  <sub><i>Click to view all achievements on GitHub</i></sub>
-</div>
-
----
-
-### 📈 Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shihadahmed&color=0284c7&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=150&section=footer&animation=fadeIn&fontSize=20&fontColor=fff&text=Thanks+for+visiting!&desc=Let's+build+something+amazing+together&descAlignY=60" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=120&section=footer&animation=fadeIn&fontSize=18&fontColor=fff&text=Thanks+for+stopping+by!&desc=Let's+build+something+extraordinary+together&descAlignY=62" width="100%"/>
 </p>
 
 <p align="center">
@@ -215,6 +129,5 @@ const shihad = {
 </p>
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/shihadahmed">Shihad Bin Ahmed</a> • Last updated: <span id="date"></span>
-  <script>document.getElementById('date').textContent = new Date().toLocaleDateString();</script>
+  Crafted with care by <b>Shihad Bin Ahmed</b>
 </p>
