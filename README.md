@@ -73,20 +73,22 @@
 ### 📊 TELEMETRY & SYSTEM METRICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shihadahmed&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&icon_color=00f2fe" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihadahmed&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shihadahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihadahmed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shihadahmed&theme=github-dark&hide_border=true&background=0d1117&stroke=21262d&ring=00f2fe&fire=00f2fe&currStreakLabel=c9d1d9&currStreakNum=00f2fe&sideNums=c9d1d9&sideLabels=c9d1d9&date_format=M%20j%2C%20Y" width="85%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=shihadahmed&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y" width="100%" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github.com/shihadahmed/shihadahmed/blob/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+<div align="center" style="width: 100%;">
+  <a href="https://github.com/shihadahmed">
+    <img src="https://raw.githubusercontent.com/shihadahmed/shihadahmed/main/github-metrics.svg" alt="Detailed Telemetry Metrics" width="100%" style="width: 100%; max-width: 100%; display: block;"/>
+  </a>
 </div>
 
 ---
