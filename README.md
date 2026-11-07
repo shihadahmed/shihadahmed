@@ -28,8 +28,8 @@
     <td width="33%" align="center" valign="top">
       <h4>🛰️ CORE EXPERTISE</h4>
       <sub>Node.js & Express Architecture</sub><br/>
-      <sub>Next.js & React Ecosystem</sub><br/>
-      <sub>MongoDB & Redis Caching</sub><br/>
+      <sub>React & Next.js Ecosystem</sub><br/>
+      <sub>MongoDB & Cloudinary Storage</sub><br/>
       <sub>Docker & Cloud Pipelines</sub>
     </td>
     <td width="33%" align="center" valign="top">
@@ -47,8 +47,8 @@
 ### 🛠️ TECH STACK // NODES
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,react,nextjs,nodejs,express,mongodb,tailwind,docker,nginx,aws,vercel" height="48" alt="Tech Stack"/>
-  <br/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,express,mongodb,tailwind,docker,nginx,aws,vercel" height="48" alt="Tech Stack"/>
+  <br/><br/>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
   <img src="https://img.shields.io/badge/Better%20Auth-000000?style=flat-square&logo=auth0&logoColor=white" alt="Better Auth"/>
   <img src="https://img.shields.io/badge/Nodemailer-EA4335?style=flat-square&logo=nodemailer&logoColor=white" alt="Nodemailer"/>
@@ -73,13 +73,6 @@
 ### 📊 TELEMETRY & SYSTEM METRICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shihadahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihadahmed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=shihadahmed&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y" width="100%" alt="GitHub Streak"/>
 </div>
 
@@ -87,7 +80,7 @@
 
 <div align="center" style="width: 100%;">
   <a href="https://github.com/shihadahmed">
-    <img src="https://raw.githubusercontent.com/shihadahmed/shihadahmed/main/github-metrics.svg" alt="Detailed Telemetry Metrics" width="100%" style="width: 100%; max-width: 100%; display: block;"/>
+    <img src="https://raw.githubusercontent.com/shihadahmed/shihadahmed/main/github-metrics.svg?v=2" alt="Detailed Telemetry Metrics" width="100%" style="width: 100%; max-width: 100%; display: block;"/>
   </a>
 </div>
 
