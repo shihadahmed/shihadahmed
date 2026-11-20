@@ -2,9 +2,11 @@
 node_modules/
 .pnp
 .pnp.js
+.gitignore
 
 # Testing
 coverage/
+tasks/
 
 # Next.js
 .next/
