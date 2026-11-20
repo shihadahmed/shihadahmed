@@ -16,9 +16,9 @@
 
 ### 🎛️ CONTROL SURFACE // CORE SYSTEMS
 
-<table width="100%">
+<table>
   <tr>
-    <td width="33.33%" align="center" valign="top">
+    <td width="300" align="center" valign="top">
       <h3>⚡ BUILD SYSTEMS</h3>
       <p>
         Scalable Multi-Tenant SaaS<br/>
@@ -27,7 +27,7 @@
         Microservice Architecture
       </p>
     </td>
-    <td width="33.33%" align="center" valign="top">
+    <td width="300" align="center" valign="top">
       <h3>🛰️ CORE EXPERTISE</h3>
       <p>
         Node.js &amp; Express Architecture<br/>
@@ -36,7 +36,7 @@
         Docker &amp; Cloud Pipelines
       </p>
     </td>
-    <td width="33.33%" align="center" valign="top">
+    <td width="300" align="center" valign="top">
       <h3>⚙️ PHILOSOPHY</h3>
       <p>
         Zero-Downtime Resilience<br/>
@@ -47,7 +47,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🛠️ TECH STACK // NODES
