@@ -16,30 +16,36 @@
 
 ### 🎛️ CONTROL SURFACE // CORE SYSTEMS
 
-<table width="100%" align="center">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h4>⚡ BUILD SYSTEMS</h4>
-      <sub>Scalable Multi-Tenant SaaS</sub><br/>
-      <sub>Real-Time Collaboration</sub><br/>
-      <sub>High-Throughput APIs</sub><br/>
-      <sub>Microservice Architecture</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>🛰️ CORE EXPERTISE</h4>
-      <sub>Node.js & Express Architecture</sub><br/>
-      <sub>React & Next.js Ecosystem</sub><br/>
-      <sub>MongoDB & Cloudinary Storage</sub><br/>
-      <sub>Docker & Cloud Pipelines</sub>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>⚙️ PHILOSOPHY</h4>
-      <sub>Zero-Downtime Resilience</sub><br/>
-      <sub>Clean, Predictable Code</sub><br/>
-      <sub>Strict RBAC & Security</sub><br/>
-      <sub>Sub-100ms Latency Focus</sub>
-    </td>
-  </tr>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="34%" align="center">⚡ BUILD SYSTEMS</th>
+      <th width="33%" align="center">🛰️ CORE EXPERTISE</th>
+      <th width="33%" align="center">⚙️ PHILOSOPHY</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <sub>Scalable Multi-Tenant Systems</sub><br/>
+        <sub>Role-Based Dashboards &amp; ERP</sub><br/>
+        <sub>RESTful &amp; High-Throughput APIs</sub><br/>
+        <sub>Modular Service Architecture</sub>
+      </td>
+      <td align="center" valign="top">
+        <sub>Node.js &amp; Express.js</sub><br/>
+        <sub>React, Next.js &amp; Tailwind CSS</sub><br/>
+        <sub>MongoDB &amp; Cloudinary</sub><br/>
+        <sub>Git, Docker &amp; CI/CD Pipelines</sub>
+      </td>
+      <td align="center" valign="top">
+        <sub>Zero-Downtime Resilience</sub><br/>
+        <sub>Clean, Predictable Code</sub><br/>
+        <sub>Strict RBAC &amp; Audit Security</sub><br/>
+        <sub>Fast &amp; Responsive UX</sub>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
