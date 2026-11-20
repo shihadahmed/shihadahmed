@@ -17,35 +17,35 @@
 ### 🎛️ CONTROL SURFACE // CORE SYSTEMS
 
 <table width="100%">
-  <thead>
-    <tr>
-      <th width="34%" align="center">⚡ BUILD SYSTEMS</th>
-      <th width="33%" align="center">🛰️ CORE EXPERTISE</th>
-      <th width="33%" align="center">⚙️ PHILOSOPHY</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <sub>Scalable Multi-Tenant Systems</sub><br/>
-        <sub>Role-Based Dashboards &amp; ERP</sub><br/>
-        <sub>RESTful &amp; High-Throughput APIs</sub><br/>
-        <sub>Modular Service Architecture</sub>
-      </td>
-      <td align="center" valign="top">
-        <sub>Node.js &amp; Express.js</sub><br/>
-        <sub>React, Next.js &amp; Tailwind CSS</sub><br/>
-        <sub>MongoDB &amp; Cloudinary</sub><br/>
-        <sub>Git, Docker &amp; CI/CD Pipelines</sub>
-      </td>
-      <td align="center" valign="top">
-        <sub>Zero-Downtime Resilience</sub><br/>
-        <sub>Clean, Predictable Code</sub><br/>
-        <sub>Strict RBAC &amp; Audit Security</sub><br/>
-        <sub>Fast &amp; Responsive UX</sub>
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="33.33%" align="center" valign="top">
+      <h3>⚡ BUILD SYSTEMS</h3>
+      <p>
+        Scalable Multi-Tenant SaaS<br/>
+        Real-Time Collaboration<br/>
+        High-Throughput APIs<br/>
+        Microservice Architecture
+      </p>
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <h3>🛰️ CORE EXPERTISE</h3>
+      <p>
+        Node.js &amp; Express Architecture<br/>
+        React &amp; Next.js Ecosystem<br/>
+        MongoDB &amp; Cloudinary Storage<br/>
+        Docker &amp; Cloud Pipelines
+      </p>
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <h3>⚙️ PHILOSOPHY</h3>
+      <p>
+        Zero-Downtime Resilience<br/>
+        Clean, Predictable Code<br/>
+        Strict RBAC &amp; Security<br/>
+        Sub-100ms Latency Focus
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
